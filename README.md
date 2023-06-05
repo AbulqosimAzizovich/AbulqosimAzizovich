@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://www.youtube.com/@tanaa5601/about"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://t.me/SD6639"><img width="52px" alt="Twitter" title="Twitter" src="https://1000logos.net/wp-content/uploads/2021/04/Telegram-logo.png"/></a>
+  <a href="https://t.me/SD6639"><img width="52px" alt="Telegram" title="Telegram" src="https://1000logos.net/wp-content/uploads/2021/04/Telegram-logo.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://github.com/AbdulqosimAzizovich" alt="Dev Pro Tips Discussion & Support Server"><img width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;

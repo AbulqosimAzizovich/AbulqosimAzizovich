@@ -11,7 +11,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://t.me/SD6639"><img width="52px" alt="Telegram" title="Telegram" src="https://1000logos.net/wp-content/uploads/2021/04/Telegram-logo.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://github.com/AbdulqosimAzizovich" alt="Dev Pro Tips Discussion & Support Server"><img width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png"/></a>
+  <a href="https://github.com/AbdulqosimAzizovich" title="Git Hub" alt="Dev Pro Tips Discussion & Support Server"><img width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.instagram.com/ummat__571_634/#"><img width="28px" alt="Instagram" title="Instagram" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;

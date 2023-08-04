@@ -3,11 +3,7 @@
   
 </h3>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20web%20developer;Seeking-knowledge%20Figma%20Designer&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p>
+
 
 <!-- Social icons section -->
 <p align="center">
@@ -31,12 +27,4 @@
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=AbdulqosimAzizovich&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
 
-I'm Frontend Web Developer, founder of AbdulqosimAzizovich and member of Najot Ta'lim
 
-- 🔭 I’m currently working on **FullStack Development**
-- 🌱 I’m currently learning **Frontend Development deeper**
-- 🤔 I’m looking for help to **IT newbies**
-- 💬 Ask me about **Myself or Frontend Development**
-- 📫 How to reach me: **via Email or Telegram: @SD6639**
-
-- ⚡ Fun fact: Wussap dude😅

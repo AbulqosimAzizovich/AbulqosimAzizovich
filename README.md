@@ -1,6 +1,4 @@
-<h1 align="center" style="width:100;%">
- <img src="https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif" />
-</h1>
+
 
 <h3 align="center">
   Welcome to <b><a href="https://my-website-prt.vercel.app/">Abdulqosim Azizovich</a></b>'s profile!
@@ -28,6 +26,10 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/AbdulqosimAzizovich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
 </p>
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=AbdulqosimAzizovich&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+
+<h1 align="center" style="width:100;%">
+ <img src="https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif" />
+</h1>
+
 
 

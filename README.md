@@ -25,11 +25,11 @@
   <a href="https://github.com/q0abd?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/AbdulqosimAzizovich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
 </p>
-
-
 <h1 align="center" style="width:100;%">
  <img src="https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif" />
 </h1>
+
+
 
 
 

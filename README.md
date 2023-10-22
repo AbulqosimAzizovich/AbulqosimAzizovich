@@ -24,7 +24,7 @@
 ####
 
 <div align="center" style="display:flex; align-items:center;">
-  <img src="https://github-stats-alpha.vercel.app/api?username=AbulqosimAzizovich&cc=000&tc=fff&ic=fff&bc=000" align="center"/>
+  <img src="https://github-stats-alpha.vercel.app/api?username=AbulqosimAzizovich&cc=000&tc=fff&ic=fff&bc=000" align="center" style="width:720px;"/>
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=AbulqosimAzizovich&show_icons=true&theme=dark" align="center"/> -->
 </div>
 <!-- #### -->
